@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivam Sharma
 
 **Full Stack Engineer — React.js, TypeScript, Node.js**  
-📍 New Delhi, India &nbsp;|&nbsp; 📞 +91-7061043260 &nbsp;|&nbsp; 📧 7610shivam@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/shivamsharma)
+📍 New Delhi, India &nbsp;|&nbsp; 📞 +91-7061043260 &nbsp;|&nbsp; 📧 7610shivam@gmail.com &nbsp;|&nbsp; [LinkedIn](www.linkedin.com/in/shivamsharma7061043260)
 
 ---
 

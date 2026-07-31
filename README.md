@@ -74,5 +74,5 @@ Maharaja Agrasen Himalayan Garhwal University &nbsp;|&nbsp; _Aug 2021 – June 2
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shivam70610/Shivam70610/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/Shivam70610/Shivam70610/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="snake gif" />
 </p>
